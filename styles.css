@@ -1,0 +1,12 @@
+*{
+    font-family: "Hahmlet", system-ui;
+}
+.container-fluid .navbar-brand{
+    font-size: 32px;
+}
+.container .row .p-4{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
